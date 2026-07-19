@@ -4,9 +4,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Pomp007/Problems_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Pomp007/Problems_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
