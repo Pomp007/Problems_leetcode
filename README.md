@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pomp007/Problems_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pomp007/Problems_leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pomp007/Problems_leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
