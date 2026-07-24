@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pomp007/Problems_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pomp007/Problems_leetcode/tree/master/0402-remove-k-digits) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
