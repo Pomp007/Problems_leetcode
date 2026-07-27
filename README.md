@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Pomp007/Problems_leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Pomp007/Problems_leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Pomp007/Problems_leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
