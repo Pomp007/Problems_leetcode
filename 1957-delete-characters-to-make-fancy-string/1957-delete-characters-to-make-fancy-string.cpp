@@ -14,7 +14,7 @@ public:
                 i++;
             }
             if(s[i] == s[j]){
-                if(count >= 3){
+                if(count >= 2){
                     j++;
                     i++;
                 }
@@ -23,7 +23,7 @@ public:
                     ans.push_back(s[j]);
                     i++;
                     j++;
-                    count++;
+                    
                 }
             }
         }
