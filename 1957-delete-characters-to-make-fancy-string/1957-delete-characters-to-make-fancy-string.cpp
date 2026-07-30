@@ -3,30 +3,22 @@ public:
     string makeFancyString(string s) {
         string ans = "";
         int count = 1;
-        int i = 0;
-        int j = 1;
+
         ans.push_back(s[0]);
-        while( j < s.length()){
-            if(s[i] != s[j]){
-                ans.push_back(s[j]);
+
+        for (int j = 1; j < s.length(); j++) {
+
+            if (s[j] == s[j - 1]) {
+                count++;
+            } else {
                 count = 1;
-                j++;
-                i++;
             }
-            if(s[i] == s[j]){
-                if(count >= 2){
-                    j++;
-                    i++;
-                }
-                else{
-                    count++;
-                    ans.push_back(s[j]);
-                    i++;
-                    j++;
-                    
-                }
+
+            if (count <= 2) {
+                ans.push_back(s[j]);
             }
         }
+
         return ans;
     }
 };
