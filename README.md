@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pomp007/Problems_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
