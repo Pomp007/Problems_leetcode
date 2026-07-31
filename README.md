@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pomp007/Problems_leetcode/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -99,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pomp007/Problems_leetcode/tree/master/0062-unique-paths) |
 | [1903-largest-odd-number-in-string](https://github.com/Pomp007/Problems_leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pomp007/Problems_leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
