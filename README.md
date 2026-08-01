@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Pomp007/Problems_leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0064-minimum-path-sum) |
 | [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 ## Sliding Window
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pomp007/Problems_leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0064-minimum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
