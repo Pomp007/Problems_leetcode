@@ -1,38 +1,36 @@
 class Solution {
 public:
-    bool solve(int i ,vector<vector<int>>& dp , vector<int>& nums ,int target){
-        if(i == nums.size() ){
-            if(target == 0){
-                return true;
-            }
-            else{
-               return false;
-            }
-        }
-        if(dp[i][target] != -1){
-            return dp[i][target];
-        }
-        bool notake = solve(i + 1, dp, nums, target);
-        bool take = false;
-        if(target >= nums[i]){
-            take = solve(i + 1 , dp , nums, target - nums[i]);
-        }
-
-        return dp[i][target] = (take || notake );
-
-    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = 0;
-        for(int i = 0; i < nums.size(); i++){
+        for(int i= 0;i < n; i++){
             sum = sum + nums[i];
         }
-        if(sum%2 != 0){
+        if(sum %2 != 0){
             return false;
         }
-        int target = sum/2;
-        vector<vector<int>> dp(n , vector<int>(target+1 , -1));
-        return solve(0 , dp , nums, target );
-        
+        int find = sum/2;
+    
+    vector<vector<bool>> dp(n+1 , vector<bool>(find + 1 , false));
+    for(int i = 0; i <= n; i++){
+        dp[i][0] = true;
+    }
+
+    for(int i = 1; i <= n; i++){
+        for(int j = 1; j <=find; j++){
+            // Not pick
+            bool notpick = dp[i-1][j];
+
+            // pick
+            bool take = false;
+            if(nums[i-1] <= j){
+            take = dp[i-1][j - nums[i-1]];
+            }
+            // Saving into DP
+            dp[i][j] = take || notpick;
+
+        }
+    }
+    return dp[n][find];
     }
 };
