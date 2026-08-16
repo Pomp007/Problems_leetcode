@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Pomp007/Problems_leetcode/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pomp007/Problems_leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pomp007/Problems_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Pomp007/Problems_leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pomp007/Problems_leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pomp007/Problems_leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pomp007/Problems_leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Pomp007/Problems_leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
